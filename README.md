@@ -2,7 +2,7 @@
 路線成本別計算軟體傳送檔案匯出CSV
 
 由於一般人不會用 mdb 檔案，每次必須一個table逐步轉成 csv 檔案，耗時費力，尤其現在人手不夠沒有寫自動化功能，時間都不夠用。
-
+直接下載使用: https://github.com/eric2100/MdbExportCSV/releases/download/1.0/MdbExportCSV.exe
 # 編譯環境
 Python 3.10.1 
 需要 package: pyodbc、csv、glob 
