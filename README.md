@@ -8,7 +8,9 @@ Python 3.10.1
 需要 package: pyodbc、csv、glob 
 
 # 編譯方法
+```
 pyinstaller -F MdbExportCSV.py -i ./MdbExportCSV.ico
+```
 
 # 使用方法
 將 MdbExportCSV.exe 跟 路線成本別計算軟體4.0產生的mdb放在同一個資料夾，點兩下執行，該軟體會自動找 *.mdb 批次轉換出 csv。
