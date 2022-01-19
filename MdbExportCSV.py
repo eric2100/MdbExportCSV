@@ -1,7 +1,5 @@
-import sys
 import pyodbc
 import csv
-import os
 from glob import glob
 
 def procMdb(mdb:str, tablename: str, output: str = '.'):
